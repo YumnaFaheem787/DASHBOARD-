@@ -1,0 +1,201 @@
+Order ID,Order Date,Customer Name,Region,Category,Sales,Quantity,Profit
+2000,2025-06-13,Bob,North,Technology,320.4,5,24.96
+2001,2025-01-27,Irene,North,Technology,128.6,7,8.84
+2002,2025-03-01,Irene,North,Technology,744.42,4,141.64
+2003,2025-04-18,David,West,Technology,828.49,5,42.5
+2004,2025-02-10,Grace,East,Office Supplies,293.78,3,59.55
+2005,2025-01-27,Bob,West,Furniture,862.74,6,147.31
+2006,2025-01-12,Hannah,North,Office Supplies,596.84,2,128.85
+2007,2025-06-08,Frank,South,Technology,141.24,2,13.5
+2008,2025-03-16,Bob,South,Furniture,350.18,7,62.03
+2009,2025-04-04,Charlie,East,Office Supplies,703.16,4,133.86
+2010,2025-06-24,Bob,South,Technology,247.06,4,31.1
+2011,2025-06-13,Irene,South,Technology,858.57,6,176.18
+2012,2025-02-28,Alice,East,Office Supplies,159.57,5,37.12
+2013,2025-05-26,Frank,South,Technology,456.07,8,106.22
+2014,2025-04-28,Charlie,East,Furniture,770.49,4,121.58
+2015,2025-05-30,Grace,West,Office Supplies,997.59,4,77.48
+2016,2025-05-07,Bob,North,Furniture,664.7,3,138.53
+2017,2025-04-19,Jack,North,Office Supplies,636.3,7,91.38
+2018,2025-03-06,Irene,North,Technology,713.54,2,112.31
+2019,2025-03-10,Frank,North,Office Supplies,242.34,7,12.27
+2020,2025-03-09,Irene,South,Technology,883.47,2,96.91
+2021,2025-06-13,Irene,South,Furniture,786.26,6,124.13
+2022,2025-05-16,Alice,East,Office Supplies,200.68,1,24.6
+2023,2025-03-20,David,North,Furniture,952.25,10,63.93
+2024,2025-05-05,Bob,South,Furniture,952.16,8,79.05
+2025,2025-05-16,Jack,West,Furniture,779.74,9,146.57
+2026,2025-03-21,Grace,East,Office Supplies,506.34,9,50.42
+2027,2025-01-17,Frank,North,Technology,307.1,9,28.88
+2028,2025-01-19,Alice,South,Furniture,873.67,1,56.06
+2029,2025-03-02,Eve,West,Furniture,219.08,9,51.94
+2030,2025-05-27,Jack,West,Furniture,826.75,8,72.82
+2031,2025-01-25,Grace,East,Office Supplies,520.32,7,101.89
+2032,2025-06-22,Bob,North,Office Supplies,820.53,6,58.96
+2033,2025-02-19,David,West,Furniture,265.14,7,37.79
+2034,2025-01-20,Hannah,North,Furniture,852.42,9,207.82
+2035,2025-03-02,Charlie,West,Office Supplies,292.37,8,38.07
+2036,2025-01-16,Charlie,West,Furniture,338.68,7,70.04
+2037,2025-04-27,Eve,West,Technology,695.68,9,102.5
+2038,2025-02-18,Eve,South,Furniture,762.16,10,47.4
+2039,2025-03-22,Alice,North,Technology,552.57,8,121.87
+2040,2025-02-10,Alice,North,Furniture,635.53,2,117.6
+2041,2025-03-02,Grace,North,Technology,621.03,4,35.99
+2042,2025-01-21,Grace,East,Office Supplies,702.75,4,79.3
+2043,2025-03-09,Grace,South,Technology,511.5,5,120.61
+2044,2025-01-19,Alice,West,Technology,996.49,10,64.43
+2045,2025-02-24,Irene,East,Furniture,892.78,6,201.64
+2046,2025-04-05,Eve,South,Office Supplies,733.19,9,126.35
+2047,2025-06-17,Irene,North,Technology,369.44,9,67.49
+2048,2025-02-04,Eve,North,Furniture,239.9,9,25.51
+2049,2025-02-23,Frank,South,Technology,554.87,5,55.61
+2050,2025-01-14,Bob,West,Office Supplies,103.19,1,21.07
+2051,2025-06-13,Eve,South,Technology,596.51,8,80.85
+2052,2025-01-03,Bob,North,Technology,591.03,3,128.21
+2053,2025-05-30,Irene,South,Office Supplies,137.65,3,16.92
+2054,2025-01-11,Frank,South,Technology,700.24,4,84.54
+2055,2025-05-24,Grace,South,Furniture,978.59,3,207.61
+2056,2025-04-16,Alice,South,Technology,804.15,6,106.42
+2057,2025-06-21,David,East,Furniture,444.29,2,25.66
+2058,2025-05-01,David,South,Office Supplies,374.67,6,78.33
+2059,2025-02-28,David,North,Technology,458.62,4,48.49
+2060,2025-01-18,Eve,East,Technology,459.71,9,113.19
+2061,2025-05-18,Frank,North,Furniture,260.71,5,63.22
+2062,2025-03-09,Alice,North,Technology,411.12,7,85.22
+2063,2025-04-22,Jack,North,Office Supplies,271.07,10,15.96
+2064,2025-04-22,Alice,South,Office Supplies,162.98,7,29.8
+2065,2025-03-26,Jack,East,Technology,747.78,2,82.3
+2066,2025-03-21,Grace,East,Office Supplies,598.97,5,52.93
+2067,2025-06-20,Grace,South,Technology,370.85,10,59.18
+2068,2025-01-01,Eve,East,Furniture,807.18,7,138.3
+2069,2025-03-24,Hannah,West,Office Supplies,560.06,4,116.91
+2070,2025-02-13,Bob,East,Technology,401.67,10,85.83
+2071,2025-03-02,Eve,South,Furniture,121.98,3,12.07
+2072,2025-05-02,Jack,North,Office Supplies,897.52,7,148.21
+2073,2025-06-28,Grace,West,Office Supplies,232.81,4,43.66
+2074,2025-01-28,Grace,South,Furniture,518.09,9,83.66
+2075,2025-02-01,Hannah,South,Office Supplies,989.1,9,167.25
+2076,2025-04-24,Jack,West,Technology,907.49,8,180.35
+2077,2025-05-02,Hannah,East,Furniture,789.23,5,121.75
+2078,2025-06-10,David,East,Office Supplies,742.19,2,71.92
+2079,2025-03-27,Frank,North,Furniture,308.14,3,58.17
+2080,2025-06-30,David,North,Office Supplies,397.79,7,56.96
+2081,2025-01-16,David,West,Office Supplies,951.46,10,51.29
+2082,2025-05-28,Grace,West,Furniture,368.75,6,47.2
+2083,2025-04-18,Irene,South,Office Supplies,345.64,4,50.85
+2084,2025-04-10,Frank,West,Technology,856.46,3,200.33
+2085,2025-06-09,Irene,North,Office Supplies,607.95,10,33.69
+2086,2025-06-14,Grace,South,Office Supplies,145.26,3,18.28
+2087,2025-02-24,Hannah,East,Office Supplies,350.43,7,84.19
+2088,2025-04-18,Eve,North,Office Supplies,774.12,1,46.77
+2089,2025-03-31,David,North,Technology,778.81,1,186.85
+2090,2025-02-21,Alice,South,Furniture,526.2,3,38.35
+2091,2025-02-25,Hannah,East,Office Supplies,645.3,3,156.64
+2092,2025-01-30,Charlie,East,Furniture,123.11,10,13.84
+2093,2025-06-23,Grace,West,Technology,168.4,4,31.68
+2094,2025-06-10,David,North,Technology,865.26,5,147.17
+2095,2025-01-31,Jack,North,Office Supplies,485.54,9,60.26
+2096,2025-05-10,Frank,North,Office Supplies,194.98,8,47.22
+2097,2025-06-12,Hannah,South,Office Supplies,760.42,3,184.85
+2098,2025-03-11,Jack,West,Office Supplies,843.16,7,142.07
+2099,2025-03-24,David,North,Office Supplies,319.48,8,45.67
+2100,2025-06-06,Grace,East,Furniture,865.86,8,74.78
+2101,2025-02-24,Frank,East,Office Supplies,892.29,5,169.75
+2102,2025-03-12,Irene,North,Technology,177.05,4,34.35
+2103,2025-05-06,Irene,South,Technology,681.31,8,100.95
+2104,2025-01-05,Bob,East,Furniture,722.61,7,80.38
+2105,2025-05-29,Frank,West,Technology,409.38,9,102.07
+2106,2025-05-21,Frank,East,Technology,343.82,8,34.48
+2107,2025-01-31,David,East,Furniture,955.79,9,179.72
+2108,2025-02-19,David,West,Office Supplies,978.95,10,151.67
+2109,2025-03-14,Bob,South,Office Supplies,424.79,4,46.92
+2110,2025-05-17,Charlie,East,Furniture,598.02,1,113.31
+2111,2025-02-02,Hannah,North,Furniture,355.91,10,51.87
+2112,2025-03-29,Charlie,North,Office Supplies,202.68,8,12.78
+2113,2025-05-06,Bob,North,Furniture,830.03,3,199.06
+2114,2025-01-22,David,North,Technology,645.69,7,134.4
+2115,2025-02-27,Irene,West,Office Supplies,367.62,8,61.65
+2116,2025-04-20,Eve,North,Technology,952.83,2,87.24
+2117,2025-02-24,Eve,North,Furniture,256.43,4,16.67
+2118,2025-01-01,Grace,West,Technology,522.92,10,29.56
+2119,2025-03-15,Eve,West,Furniture,931.52,4,193.35
+2120,2025-06-10,Jack,South,Office Supplies,590.11,2,105.94
+2121,2025-03-10,Charlie,North,Furniture,813.37,3,137.47
+2122,2025-05-26,Eve,West,Furniture,719.81,8,136.73
+2123,2025-03-11,Irene,West,Office Supplies,638.23,2,145.44
+2124,2025-03-24,Jack,East,Furniture,306.03,2,56.57
+2125,2025-05-28,Jack,North,Technology,618.62,5,125.35
+2126,2025-02-14,Hannah,West,Office Supplies,997.25,3,136.8
+2127,2025-05-06,Bob,West,Office Supplies,399.98,7,73.61
+2128,2025-02-11,Frank,West,Technology,359.4,8,85.91
+2129,2025-05-21,Alice,West,Furniture,327.16,6,23.94
+2130,2025-04-14,Irene,North,Technology,515.78,9,31.38
+2131,2025-05-13,Frank,West,Technology,783.99,8,71.12
+2132,2025-05-21,Charlie,East,Office Supplies,209.28,8,51.2
+2133,2025-06-05,David,South,Office Supplies,112.31,9,14.78
+2134,2025-02-27,Bob,West,Furniture,548.54,3,106.04
+2135,2025-05-11,Eve,West,Office Supplies,319.36,8,51.18
+2136,2025-04-09,David,South,Furniture,795.41,5,175.69
+2137,2025-03-29,Irene,East,Furniture,753.45,5,163.87
+2138,2025-05-29,Hannah,South,Office Supplies,535.91,9,62.43
+2139,2025-05-20,Grace,West,Office Supplies,982.7,4,96.07
+2140,2025-04-09,David,West,Furniture,770.23,6,147.15
+2141,2025-04-08,Grace,South,Office Supplies,213.62,1,51.92
+2142,2025-03-26,Bob,West,Furniture,919.4,9,48.79
+2143,2025-02-06,Grace,South,Furniture,803.37,8,82.75
+2144,2025-06-09,Grace,North,Office Supplies,442.01,9,50.09
+2145,2025-05-05,Irene,North,Technology,311.29,2,58.17
+2146,2025-03-15,David,North,Office Supplies,784.33,2,149.63
+2147,2025-01-26,Hannah,South,Technology,913.08,5,54.05
+2148,2025-01-15,Eve,East,Office Supplies,231.01,7,36.09
+2149,2025-05-25,Charlie,South,Furniture,648.54,2,82.05
+2150,2025-06-24,David,West,Technology,308.97,3,54.87
+2151,2025-04-28,Eve,North,Office Supplies,709.85,5,57.92
+2152,2025-04-24,Frank,East,Technology,721.28,7,101.97
+2153,2025-03-19,David,West,Office Supplies,313.49,2,51.53
+2154,2025-05-28,Eve,East,Furniture,347.03,7,56.63
+2155,2025-06-25,Alice,West,Office Supplies,646.36,4,77.86
+2156,2025-06-12,David,East,Technology,665.42,3,153.5
+2157,2025-06-15,Alice,East,Office Supplies,621.62,1,122.13
+2158,2025-01-24,Eve,East,Technology,258.08,7,19.73
+2159,2025-05-19,Frank,East,Furniture,922.64,5,220.36
+2160,2025-03-17,Frank,North,Office Supplies,226.68,2,55.15
+2161,2025-06-23,Grace,East,Furniture,112.53,7,17.7
+2162,2025-04-27,Frank,East,Technology,840.18,7,200.01
+2163,2025-01-28,David,West,Furniture,895.81,10,145.37
+2164,2025-06-06,David,North,Technology,918.45,8,101.43
+2165,2025-04-15,Bob,South,Furniture,373.93,1,55.54
+2166,2025-01-25,David,South,Office Supplies,433.91,8,104.08
+2167,2025-06-28,Irene,West,Technology,896.87,3,162.32
+2168,2025-05-06,Jack,West,Office Supplies,721.25,1,67.4
+2169,2025-04-24,David,East,Furniture,590.02,6,144.89
+2170,2025-04-02,Alice,West,Office Supplies,971.39,4,232.94
+2171,2025-04-27,Bob,South,Technology,973.98,10,58.55
+2172,2025-03-27,David,South,Technology,161.75,4,32.84
+2173,2025-02-23,Jack,South,Furniture,796.93,6,165.55
+2174,2025-06-02,Alice,East,Furniture,586.19,3,122.93
+2175,2025-01-29,Alice,South,Furniture,810.99,6,79.14
+2176,2025-03-24,Alice,South,Office Supplies,214.08,1,28.73
+2177,2025-01-30,Bob,West,Office Supplies,561.91,6,40.35
+2178,2025-05-09,David,North,Technology,371.47,9,66.37
+2179,2025-01-08,Alice,West,Office Supplies,717.49,7,106.23
+2180,2025-04-24,Bob,North,Office Supplies,233.5,10,17.57
+2181,2025-06-09,Jack,East,Office Supplies,577.5,10,81.28
+2182,2025-06-04,Grace,North,Technology,867.51,2,156.31
+2183,2025-05-22,David,West,Office Supplies,472.43,4,101.8
+2184,2025-04-13,Grace,North,Office Supplies,381.27,7,38.5
+2185,2025-02-09,Hannah,North,Furniture,183.91,2,12.75
+2186,2025-04-06,Charlie,North,Technology,605.52,9,111.42
+2187,2025-04-16,Frank,West,Technology,971.56,1,165.24
+2188,2025-04-01,Bob,South,Furniture,301.82,8,21.62
+2189,2025-05-23,Frank,North,Office Supplies,303.54,10,41.23
+2190,2025-05-24,Jack,North,Technology,126.06,5,13.19
+2191,2025-03-21,Frank,East,Furniture,882.88,3,144.14
+2192,2025-04-13,Bob,South,Technology,182.58,1,28.5
+2193,2025-04-07,Grace,West,Office Supplies,433.05,3,84.15
+2194,2025-05-26,Jack,North,Furniture,241.67,3,41.95
+2195,2025-06-22,Bob,East,Office Supplies,537.1,7,74.34
+2196,2025-03-11,David,North,Office Supplies,199.8,7,37.09
+2197,2025-06-01,Hannah,East,Furniture,455.74,4,77.41
+2198,2025-01-02,David,East,Furniture,787.74,3,84.99
+2199,2025-01-31,Alice,West,Technology,258.13,7,32.54
